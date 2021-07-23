@@ -1,2 +1,2 @@
 # java-projects
-This repository contains all my Java coding projects from Spring 2020. 
+This repository contains all my completed Java projects from Spring 2020. 
