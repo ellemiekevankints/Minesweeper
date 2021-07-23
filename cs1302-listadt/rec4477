@@ -1,0 +1,39 @@
+cs1302-listadt:
+total 100
+drwxr-xr-x 3 ugrad  4096 Feb 18 14:21 bin
+-rw-r--r-- 1 ugrad  2016 Feb  5 21:35 listadt.jar
+-rw-r--r-- 1 ugrad 21242 Feb  5 21:35 listadt_uml1_good.png
+-rw-r--r-- 1 ugrad 29758 Feb  5 21:35 listadt_uml2_good.png
+-rw-r--r-- 1 ugrad 32638 Feb  5 21:35 README.md
+-rw-r--r-- 1 ugrad     0 Feb 21 21:06 rec4477
+drwxr-xr-x 3 ugrad  4096 Feb  9 16:59 src
+
+cs1302-listadt/bin:
+total 4
+drwxr-xr-x 3 ugrad 4096 Feb 18 14:21 cs1302
+
+cs1302-listadt/bin/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Feb 19 13:45 list
+
+cs1302-listadt/bin/cs1302/list:
+total 36
+-rw-r--r-- 1 ugrad  2712 Feb 21 21:00 AbstractStringList.class
+-rw-r--r-- 1 ugrad  3711 Feb 21 19:40 ArrayStringList.class
+-rw-r--r-- 1 ugrad 24490 Feb 21 20:57 Driver.class
+-rw-r--r-- 1 ugrad  3794 Feb 21 21:00 LinkedStringList.class
+
+cs1302-listadt/src:
+total 4
+drwxr-xr-x 3 ugrad 4096 Feb 18 20:21 cs1302
+
+cs1302-listadt/src/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Feb 21 21:05 list
+
+cs1302-listadt/src/cs1302/list:
+total 24
+-rw-r--r-- 1 ugrad 4856 Feb 21 21:00 AbstractStringList.java
+-rw-r--r-- 1 ugrad 6527 Feb 21 19:39 ArrayStringList.java
+-rw-r--r-- 1 ugrad 5709 Feb 21 21:00 LinkedStringList.java
+/home/ugrads/vankints/cs1302-listadt:/home/work/cs1302a
