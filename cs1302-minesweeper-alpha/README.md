@@ -3,8 +3,6 @@
 
 ![Approved for: Spring 2020](https://img.shields.io/badge/Approved%20for-Spring%202020-blue)
 
-![Unrelated image of mine."](mine.jpg)
-
 **DUE FRI 2020-01-31 (Jan 31) @ 11:55 PM.**
 
 This repository contains the skeleton code for the Minesweeper Alpha project
