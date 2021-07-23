@@ -1,0 +1,53 @@
+cs1302-genlistadt:
+total 48
+drwxr-xr-x 3 ugrad  4096 Mar 10 17:49 bin
+drwxr-xr-x 2 ugrad  4096 Mar  9 16:37 img
+drwxr-xr-x 2 ugrad  4096 Mar  9 16:37 lib
+-rw-r--r-- 1 ugrad 25830 Mar  9 16:37 README.md
+-rw-r--r-- 1 ugrad     0 Apr  1 11:55 rec13903
+-rw-r--r-- 1 ugrad  1658 Mar 31 12:46 rec24964
+drwxr-xr-x 3 ugrad  4096 Mar  9 16:40 src
+
+cs1302-genlistadt/bin:
+total 4
+drwxr-xr-x 3 ugrad 4096 Mar 10 17:49 cs1302
+
+cs1302-genlistadt/bin/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Mar 25 18:27 genlist
+
+cs1302-genlistadt/bin/cs1302/genlist:
+total 40
+-rw-r--r-- 1 ugrad 1744 Apr  1 11:54 BaseGenList.class
+-rw-r--r-- 1 ugrad  272 Mar 12 02:00 Driver.class
+-rw-r--r-- 1 ugrad  987 Apr  1 11:54 IteratorClass.class
+-rw-r--r-- 1 ugrad 6416 Apr  1 11:54 LinkedGenList.class
+-rw-r--r-- 1 ugrad 8399 Apr  1 11:54 LinkedGenListTest.class
+-rw-r--r-- 1 ugrad 1150 Apr  1 11:54 NodeClass.class
+-rw-r--r-- 1 ugrad  878 Apr  1 11:54 Utility.class
+
+cs1302-genlistadt/img:
+total 16
+-rw-r--r-- 1 ugrad 14424 Mar  9 16:37 genlistadt-uml.png
+
+cs1302-genlistadt/lib:
+total 4
+-rw-r--r-- 1 ugrad 1671 Mar  9 16:37 genlistadt.jar
+
+cs1302-genlistadt/src:
+total 4
+drwxr-xr-x 3 ugrad 4096 Mar 11 22:37 cs1302
+
+cs1302-genlistadt/src/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Apr  1 11:53 genlist
+
+cs1302-genlistadt/src/cs1302/genlist:
+total 44
+-rw-r--r-- 1 ugrad  1851 Mar 12 00:00 BaseGenList.java
+-rw-r--r-- 1 ugrad  1039 Apr  1 11:33 IteratorClass.java
+-rw-r--r-- 1 ugrad 10203 Apr  1 11:53 LinkedGenList.java
+-rw-r--r-- 1 ugrad 12492 Mar 29 20:19 LinkedGenListTest.java
+-rw-r--r-- 1 ugrad  1850 Mar 29 19:37 NodeClass.java
+-rw-r--r-- 1 ugrad  1664 Mar 29 19:34 Utility.java
+/home/ugrads/vankints/cs1302-genlistadt:/home/work/cs1302a
