@@ -297,19 +297,3 @@ Bye!
 After the player correctly entered the command `q`, the game
 displayed the goodbye message and the program exited gracefully.
 
-
-### Seed Files
-
-This game can also be setup using seed files. Seed files have the following
-format:
-
- * The first two tokens are two integers (separated by white-space) indicating the
-   number of `rows` and `cols`, respectively, for the size
-   of the mine board.
-
- * The third token is an integer indicating the number of mines to be
-   placed on the mine board.
-
- * Subsequent pairs of tokens are integers (separated by white space)
-   indicating the location of each mine.
-
